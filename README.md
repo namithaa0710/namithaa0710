@@ -43,10 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Namithaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=namithaa0710&show_icons=true&count_private=true&hide_title=true&hide=prs,issues,stars,contribs&theme=tokyonight)
-
 
 --
 
