@@ -45,3 +45,11 @@
 
 ### 📊 GitHub Stats
 ![Namithaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=namithaa0710&show_icons=true&theme=tokyonight)
+
+--
+
+### 🚀 Featured Projects  
+
+- [**PCOSense**](https://github.com/namithaa0710/PCOSense) — AI-powered app for PCOS health management through food analysis and personalized recommendations.  
+- [**Women Safety App**](https://github.com/namithaa0710/Women_safety_app) — Real-time safety app with SOS alerts, live tracking, and AI-based risk detection.  
+- [**DermDoc-AI**](https://github.com/namithaa0710/DermDoc-AI) — Skin disease detection system using CNN and computer vision for early diagnosis.
