@@ -15,7 +15,7 @@
 
 ---
 
-### 🔗 Connect with me
+### 🔗 Connect me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vnamithaa/)
 
 ---
@@ -52,4 +52,4 @@
 
 - [**PCOSense**](https://github.com/namithaa0710/PCOSense) — AI-powered app for PCOS health management through food analysis and personalized recommendations.  
 - [**Women Safety App**](https://github.com/namithaa0710/Women_safety_app) — Real-time safety app with SOS alerts, live tracking, and AI-based risk detection.  
-- [**DermDoc-AI**](https://github.com/namithaa0710/DermDoc-AI) — Skin disease detection system using CNN and computer vision for early diagnosis.
+- [**DermDoc-AI**](https://github.com/namithaa0710/DermDoc-AI) — AI-powered skincare validation system that analyzes ingredients, verifies product safety in real time, and features separate portals for sellers and users to view approved products.
