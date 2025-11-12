@@ -1,9 +1,17 @@
 # Hi 👋, I'm Namithaa  
 ### A passionate Computer Science and AI Engineer
 
-🌱 I’m currently working on **AI-based projects like PCOSense and DRR-AI**  
-💬 Ask me about **Machine Learning, Deep Learning, LLMs, and AI Applications**  
-📫 How to reach me: **namithaa0710@gmail.com**
+### 👩‍💻 About Me  
+
+🌱 Passionate about solving **real-world problems** through creative and impactful AI solutions.  
+💡 Currently exploring **Generative AI**, **Computer Vision**, and **NLP Models**.  
+🧠 I enjoy building intelligent systems that can **analyze, understand, and act** like humans.  
+💬 Ask me about **Machine Learning, Deep Learning, LLMs, and AI Applications**.  
+🔭 Working on projects that combine **AI + Data Science + Real-world impact**.  
+⚙️ Experienced in developing **end-to-end ML/DL pipelines**, **data processing workflows**, and **AI-powered web apps**.  
+🎯 Goal: To contribute to **AI-driven products** that make a tangible difference in society.  
+📫 Reach me at: **namithaa0710@gmail.com**  
+
 
 ---
 
